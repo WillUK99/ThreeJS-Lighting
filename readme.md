@@ -1,5 +1,7 @@
 # Webpack THREE.js Template
 
+## Full Credits to Bruno Simon for file setup 
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -14,3 +16,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+OR 
+`yarn dev`
